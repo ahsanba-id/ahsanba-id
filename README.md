@@ -44,7 +44,7 @@ PROGRAMMING_KNOWLEDGE = {
         level: "████████░░",
         type: "System-Command",
     },
-    "Batch_Script": {
+    "Batch Script": {
         level: "███████░░░",
         type: "Windows-Scripting",
     }
