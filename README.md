@@ -34,7 +34,7 @@ PROGRAMMING_KNOWLEDGE = {
     },
     "HTML": {
         level: "█████████░",
-        type: "Programming-Language",
+        type: "Markup-Language",
     },
     "JavaScript": {
         level: "█████░░░░░",
