@@ -47,18 +47,18 @@ PROGRAMMING_KNOWLEDGE = {
 ```
 ## [🔮] LEARNING IN PROGRESS [🔮]
 ```
-┌────────────────────────────────────────┐
-│    ACQUIRING NEW KNOWLEDGE PATTERNS    │
-├────────────────────────────────────────┤
-│ ├─[ ] GoLang                           │
-│ │  └─[Progress: Integrating]           │
-│ │                                      │
-│ ├─[ ] C++                              │
-│ │  └─[Progress: Aligning]              │
-│ │                                      │
-│ └─[ ] PHP                              │
-│    └─[Progress: Synchronizing]         │
-└────────────────────────────────────────┘
+╔══════════════════════════════════════════════╗
+║       ACQUIRING NEW KNOWLEDGE PATTERNS       ║
+├──────────────────────────────────────────────┤
+║ ├─[ ] GoLang                                 ║
+║ │  └─[Progress: Integrating]                 ║
+║ │                                            ║
+║ ├─[ ] C++                                    ║
+║ │  └─[Progress: Aligning]                    ║
+║ │                                            ║
+║ └─[ ] PHP                                    ║
+║    └─[Progress: Synchronizing]               ║
+╚══════════════════════════════════════════════╝
 ```
 ## [⚙️] TOOLCHAIN IN LOCAL LAB [⚙️]
 ```
